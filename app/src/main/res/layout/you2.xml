@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nrupul"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:paddingTop="19dp"
+        android:paddingLeft="33dp"
+        android:paddingRight="33dp"
+        android:paddingBottom="19dp"
+        android:background="#DE1717"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dev"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:paddingTop="19dp"
+        android:paddingLeft="59dp"
+        android:paddingRight="33dp"
+        android:paddingBottom="11dp"
+        android:background="#0E0481"
+        android:layout_alignParentRight="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rahul"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:paddingTop="11dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="51dp"
+        android:paddingBottom="11dp"
+        android:background="#3F0D66"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prateek"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:paddingTop="13dp"
+        android:paddingLeft="44dp"
+        android:paddingRight="25dp"
+        android:paddingBottom="22dp"
+        android:layout_marginTop="133dp"
+        android:layout_marginLeft="130dp"
+        android:background="#B4A311"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aman"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:paddingTop="21dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="44dp"
+        android:paddingBottom="15dp"
+        android:layout_marginTop="291dp"
+        android:background="#920495"/>
+
+
+
+</RelativeLayout>
